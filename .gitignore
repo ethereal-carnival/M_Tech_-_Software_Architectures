@@ -1,10 +1,10 @@
 # Project exclude paths
 
-*/node_modules
-*/package-lock.json
+*node_modules
+*package-lock.json
 
-*/wrk_dir
-*/target
+*wrk_dir
+*target
 
 *.idea
 *.iml
