@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ethereal_carnival.edu</groupId>
-    <artifactId>distributed_app</artifactId>
+    <artifactId>webapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>webapp</name>
     <description>distributed_app</description>

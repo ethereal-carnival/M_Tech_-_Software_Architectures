@@ -8,10 +8,10 @@
         <version>2.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>com.bits.layered</groupId>
     <artifactId>Layered</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Layered</name>
+    <name>lec-04-1-layered-app</name>
     <description>Layered</description>
     <properties>
         <java.version>11</java.version>

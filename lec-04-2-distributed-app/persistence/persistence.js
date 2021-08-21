@@ -3,7 +3,7 @@ let fs = require('fs');
 
 app.post('/persistence/:word', (req, res) => {
     let { word } = req.params;
-    let fileName = __dirname + "/fsdb/" + new Date().getTime() + ".txt";
+    let fileName = process.cwd() + "/" + new Date().getTime() + ".txt";
     fs.writeFile(fileName, word, null, (err) => {
         res.send('Done');
     });
