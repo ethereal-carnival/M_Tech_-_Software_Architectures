@@ -14,6 +14,7 @@
 
 ### Web-app:
 * To administer RabbitMQ, in your browser, open [http://localhost:15672/](http://localhost:15672/)
+* Default credentials for RabbitMQ are guest/guest
 
 ---
 
