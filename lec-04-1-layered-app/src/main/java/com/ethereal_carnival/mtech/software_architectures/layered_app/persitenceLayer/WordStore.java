@@ -1,4 +1,4 @@
-package com.bits.layered.persitenceLayer;
+package com.ethereal_carnival.mtech.software_architectures.layered_app.persitenceLayer;
 
 import org.springframework.stereotype.Component;
 

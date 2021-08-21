@@ -8,11 +8,11 @@
         <version>2.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.bits.layered</groupId>
-    <artifactId>Layered</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <groupId>com.ethereal_carnival.mtech.software_architectures</groupId>
+    <artifactId>lec-04-1-layered-app-</artifactId>
+    <version>1.0.0</version>
     <name>lec-04-1-layered-app</name>
-    <description>Layered</description>
+    <description>Layered Architecture - monolith</description>
     <properties>
         <java.version>11</java.version>
     </properties>

@@ -8,11 +8,11 @@
         <version>2.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.ethereal_carnival.edu</groupId>
-    <artifactId>webapp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <groupId>com.ethereal_carnival.mtech.software_architectures.</groupId>
+    <artifactId>lec-04-2-distributed-webapp</artifactId>
+    <version>1.0.0</version>
     <name>webapp</name>
-    <description>distributed_app</description>
+    <description>Distributed Architecture</description>
     <properties>
         <java.version>11</java.version>
     </properties>

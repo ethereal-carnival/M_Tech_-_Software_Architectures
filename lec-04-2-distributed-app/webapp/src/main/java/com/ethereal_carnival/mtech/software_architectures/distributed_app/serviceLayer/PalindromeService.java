@@ -1,4 +1,4 @@
-package com.ethereal_carnival.edu.distributed_app.serviceLayer;
+package com.ethereal_carnival.mtech.software_architectures.distributed_app.serviceLayer;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;

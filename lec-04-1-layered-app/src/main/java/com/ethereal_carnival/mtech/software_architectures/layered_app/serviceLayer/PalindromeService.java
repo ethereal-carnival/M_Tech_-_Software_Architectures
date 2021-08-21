@@ -1,7 +1,7 @@
-package com.bits.layered.serviceLayer;
+package com.ethereal_carnival.mtech.software_architectures.layered_app.serviceLayer;
 
-import com.bits.layered.businessLayer.PalindromeEngine;
-import com.bits.layered.persitenceLayer.WordStore;
+import com.ethereal_carnival.mtech.software_architectures.layered_app.businessLayer.PalindromeEngine;
+import com.ethereal_carnival.mtech.software_architectures.layered_app.persitenceLayer.WordStore;
 import org.springframework.stereotype.Service;
 
 @Service

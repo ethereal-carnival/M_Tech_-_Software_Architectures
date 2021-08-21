@@ -1,6 +1,6 @@
-package com.bits.layered.presentationLayer;
+package com.ethereal_carnival.mtech.software_architectures.layered_app.presentationLayer;
 
-import com.bits.layered.serviceLayer.PalindromeService;
+import com.ethereal_carnival.mtech.software_architectures.layered_app.serviceLayer.PalindromeService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

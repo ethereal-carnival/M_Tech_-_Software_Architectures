@@ -1,6 +1,6 @@
-package com.ethereal_carnival.edu.distributed_app.presentationLayer;
+package com.ethereal_carnival.mtech.software_architectures.distributed_app.presentationLayer;
 
-import com.ethereal_carnival.edu.distributed_app.serviceLayer.PalindromeService;
+import com.ethereal_carnival.mtech.software_architectures.distributed_app.serviceLayer.PalindromeService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

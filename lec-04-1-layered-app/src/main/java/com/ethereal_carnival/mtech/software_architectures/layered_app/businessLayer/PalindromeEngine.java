@@ -1,4 +1,4 @@
-package com.bits.layered.businessLayer;
+package com.ethereal_carnival.mtech.software_architectures.layered_app.businessLayer;
 
 import org.springframework.stereotype.Component;
 
