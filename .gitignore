@@ -1,5 +1,10 @@
 # Project exclude paths
-/lec-04-2-distributed-app/palindrome/node_modules/
-/lec-04-2-distributed-app/persistence/node_modules/
-/lec-05-1-pipes-and-filters/node_modules/
-/lec-05-2-async/node_modules/
+
+*/node_modules
+*/package-lock.json
+
+*/wrk_dir
+*/target
+
+*.idea
+*.iml
